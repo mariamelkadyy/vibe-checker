@@ -177,9 +177,3 @@ This project helped me learn:
 * Streamlit UI development
 * Model caching and optimization
 * AI limitations in real-world text understanding
-
----
-
-## 👩‍💻 Author
-
-Built by **Mariam Elkady** as part of my AI and software development learning journey.
